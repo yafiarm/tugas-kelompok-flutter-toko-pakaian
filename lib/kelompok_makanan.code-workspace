@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../toko_pakaian"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"dart.flutterHotReloadOnSave": "never",
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 500
+	}
+}
